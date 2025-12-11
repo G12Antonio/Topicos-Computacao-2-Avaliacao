@@ -1,1 +1,2 @@
 # Topicos-Computacao-2-Avaliacao
+Este repositório contém os arquivos necessários para a entrega das atividades [Atividade Avaliativa 4 (AV2) - Estudo e Implementação sobre LLMs e RAGs] e [Atividade Avaliativa 3 (AV2) - Estudo e Implementação sobre Mecanismos de Atenção e Redes Transformers]. Os arquivos são os códigos que foram apresentados ao professor durante a aula no dia 10/12/2025 e os relatórios que descrevem as etapas, desenvolvimento e os resultados apresentados pelos códigos.
